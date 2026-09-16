@@ -114,7 +114,7 @@ plt.show()
 ```
 
 <p align='center'>
-<img src = "band_structure.svg" width = "300">  
+<img src = "band_structure.svg" width = "600">  
 </p>
 
 
